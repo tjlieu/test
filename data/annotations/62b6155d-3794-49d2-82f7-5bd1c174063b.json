@@ -1,5 +1,512 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Theoretical Theatre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "daebe58e-9618-439c-8cca-10bdb0c33edb"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This theatre aspires to be pure dialogue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        }
+      ],
+      "uuid": "68ab7916-eab3-4518-9811-ad03bbbf1d79"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between a speeding train and the horizon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "473e4672-e16a-444e-9fe4-dee359fbc6fc"
+    },
+    {
+      "start_time": 17,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the method and the prop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "ed3a18be-32f7-4407-b8f4-d6b73af8cbc9"
+    },
+    {
+      "start_time": 23,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between ambient and monophonic chant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "452a5e22-e506-4a0b-9b35-84aad97aa028"
+    },
+    {
+      "start_time": 33,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between a chorus and the extras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "4f4efe91-c524-4360-a50e-cbe3b368a2d8"
+    },
+    {
+      "start_time": 40,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between a fragmentary interlude and a buttressed citizenry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        }
+      ],
+      "uuid": "98a4715a-47f6-49b8-85da-96da803f3daf"
+    },
+    {
+      "start_time": 49,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between a failed metaphor and a desire to believe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "a78a798d-ee6f-4855-abf5-5b86b92f8e9a"
+    },
+    {
+      "start_time": 59,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between a megaphone and the gag."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "1b389447-bb7f-4080-93de-296671dd1bfd"
+    },
+    {
+      "start_time": 65,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the chatter and the conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "b1640519-9c02-4565-8614-baae212d8b06"
+    },
+    {
+      "start_time": 73,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between a mountain pass and some lambs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "062bfb90-d786-4352-bed2-bd4b76b16477"
+    },
+    {
+      "start_time": 78,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between a body's gestures and the floodlights."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "4ce15f6a-5425-42d5-98b4-0b3622b2f0e3"
+    },
+    {
+      "start_time": 85,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the margins and the edgy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "e72998be-0b95-4eb8-816a-84b856523bce"
+    },
+    {
+      "start_time": 93,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the action upstage and the acts offstage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "e414aaaf-f778-4e0e-a111-15b4e68d6ab8"
+    },
+    {
+      "start_time": 102,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the undertone and the utterance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "d8387b77-2cfc-4f6d-9c01-63207971f25f"
+    },
+    {
+      "start_time": 110,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the backdrop and the spilled ink."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "7581041c-a4d7-4c80-9376-23e75ae60955"
+    },
+    {
+      "start_time": 119,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the riotous and the listened."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amplitude"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "d4cb5af3-201c-4841-8866-ff992d802df9"
+    },
+    {
+      "start_time": 124,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between now and now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poem"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "37265789-71ff-408c-b87a-24506a88581a"
+    }
+  ],
   "set": "Default",
   "event_id": "bbe5244b-fe7a-46d5-ab69-c962311f5531",
   "source_id": "15b3e987-2bd0-4d01-876b-5d93f0bd9e97"
